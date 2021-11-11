@@ -1,0 +1,19 @@
+body{
+    background-color: lightgrey;
+    font-family: Arial, Helvetica, sans-serif
+}
+h1{
+    color: lightgray;
+    background-color:lightslategray ;
+    text-align: center;
+    font-size: 28px;
+}
+h2{
+    color: lightslategray;
+}
+h3{
+    color: slategray;
+}
+ul{
+    color: dimgray;
+}
