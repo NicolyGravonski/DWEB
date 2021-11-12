@@ -1,0 +1,64 @@
+body{
+    background-color: lightskyblue;
+}
+
+h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: mediumblue;
+    text-align: center;
+    border: 10px lightskyblue;
+}
+div.História{
+    color:black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 30px;
+    padding: 30px;
+}
+.História:hover{
+    color:white;
+    background-color: rgb(6, 75, 116);
+    margin: 30px;
+    padding: 30px;
+
+}
+div.cachu{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+.cachu:hover{
+    color:white;
+    background-color: rgb(6, 75, 116);
+    margin: 30px;
+    padding: 30px;
+}
+div.Santa{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 20px;
+    padding: 20px;
+}
+.Santa:hover{
+    color:white;
+    background-color: rgb(6, 75, 116);
+    margin: 30px;
+    padding: 30px;
+}
+p::selection{
+    color: white;
+    background-color: palevioletred;
+}
+div.cachoeiras{
+    font-family:Arial, Helvetica, sans-serif;
+}
+div.santa{
+    font-family:Arial, Helvetica, sans-serif;
+}
+div.atrações{
+    font-family:Arial, Helvetica, sans-serif;
+}
+div.lista{
+    color: white;
+    background-color: midnightblue;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+}
