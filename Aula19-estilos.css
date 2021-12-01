@@ -92,5 +92,8 @@ span{
     align-items: center;
     z-index: 2; /*DETERMINA AS CAMADAS*/
 }
-
+figure{
+    float: right;
+    margin: 0 px 0 px 10px 10px;
+}
     
